@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ankang</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-![](http://antzuhl.cn:4000/get/@2671467850)
+<h3 align="center">Talk is cheap, Show me the code.</h3>
 
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
