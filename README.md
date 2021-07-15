@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
-- 💬 Ask me about **react/vue**
-
 - 📫 How to reach me **ankangz98@gmail.com**
+
+- 💬 Ask me about **react/vue**
