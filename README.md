@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **vue/react/we-applet/RN/HarmonyOS**
+![](http://antzuhl.cn:4000/get/@2671467850.readme)
 
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
