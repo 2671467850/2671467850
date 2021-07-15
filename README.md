@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Talk is cheap, Show me the code.</h3>
 
+<img align="right" alt="GIF" width="350" height="200" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
 - 📫 How to reach me **ankangz98@gmail.com**
