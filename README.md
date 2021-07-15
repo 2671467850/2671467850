@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ankangz98@gmail.com**
 
-<code-pre align="right"  class="code-pre" id="pre-EPnT2N"><code-line class="line-numbers-rows"></code-line>[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=2671467850)](https://github.com/anuraghazra/github-readme-stats)</code-pre>
+<h3 align="right">
+<code-pre class="code-pre" id="pre-EPnT2N"><code-line class="line-numbers-rows"></code-line>[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=2671467850)](https://github.com/anuraghazra/github-readme-stats)</code-pre>
+</h3>
