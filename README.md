@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 <h1 align="center">Hi 👋, I'm Ankang</h1>
 
 <h3 align="center">Talk is cheap, Show me the code.</h3>
-
-<img align="right" alt="GIF" width="125" height="90" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
