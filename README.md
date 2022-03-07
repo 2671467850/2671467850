@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ankang</h1>
 
 <h3 align="center">Talk is cheap, Show me the code.</h3>
-
+<!-- 
 - 📝 I regularly write articles on [https://ankang.icu/](https://ankang.icu/)
 
 - 📫 How to reach me **ankangz98@gmail.com**
 
-- 💬 Ask me about **react/vue**
+- 💬 Ask me about **react/vue** -->
